@@ -32,7 +32,7 @@ function iLoveTheBeatles (num) {
   var arr = [];
   
   var i = 0;
-  
+  do
   while (i ) {
     
   }
