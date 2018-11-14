@@ -14,10 +14,15 @@ function theBeatlesPlay (arrMusic, arrInstr) {
 
 
 function johnLennonFacts(arr) {
+  var finalArr = [];
+  
   var i = 0;
   while(i < arr.length) {
     var fact = arr[i];
-    
+    i += 1;
+    finalArr.push(fact + "!!!");
   }
+  
+  return finalArr;
 }
 
