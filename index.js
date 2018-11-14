@@ -13,7 +13,7 @@ function theBeatlesPlay (arrMusic, arrInstr) {
 } 
 
 
-function johnLennonFacts(arr) {
+function johnLennonFacts (arr) {
   var finalArr = [];
   
   var i = 0;
@@ -24,5 +24,13 @@ function johnLennonFacts(arr) {
   }
   
   return finalArr;
+}
+
+
+
+function iLoveTheBeatles (num) {
+  var arr = [];
+  
+  
 }
 
