@@ -14,6 +14,10 @@ function theBeatlesPlay (arrMusic, arrInstr) {
 
 
 function johnLennonFacts(arr) {
-  
+  var i = 0;
+  while(i < arr.length) {
+    var fact = arr[i];
+    
+  }
 }
 
