@@ -17,7 +17,7 @@ function johnLennonFacts (arr) {
   var finalArr = [];
   
   var i = 0;
-  while(i < arr.length) {
+  while (i < arr.length) {
     var fact = arr[i];
     i += 1;
     finalArr.push(fact + "!!!");
@@ -31,6 +31,9 @@ function johnLennonFacts (arr) {
 function iLoveTheBeatles (num) {
   var arr = [];
   
-  
+  var i = 0;
+  while (i ) {
+    
+  }
 }
 
