@@ -6,6 +6,8 @@ function theBeatlesPlay (arrMusic, arrInstr) {
   for (var i = 0; i < arrMusic.length; i += 1) {
     var musicians = arrMusic[i];
     
-    
+    arr.push(musicians, arrInstr[i]);
   }
+  
+  return arr;
 } 
